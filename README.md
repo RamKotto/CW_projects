@@ -1,2 +1,2 @@
 # CW_projects
-code wars tasks
+code wars solutions
