@@ -7,9 +7,6 @@ def euclidean(a, b):
             a -= b
         elif a < b:
             b -= a
-    if a % b == 0:
-        return b
-    else:
-        return a
+    return b
 
 print(euclidean(a, b))
