@@ -1,0 +1,12 @@
+def fib(n):
+    start = [0, 1]
+    finish = [0]
+    while len(finish) < n:
+        guess = sum(start[-2:])
+        start.append(guess)
+        if guess % 2 == 0:
+            finish.append(guess)
+    return finish
+
+# for a test:
+print(fib(4))
