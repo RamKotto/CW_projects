@@ -1,4 +1,4 @@
-<h2>Hello everyone!</h2>
-<p>Here is my favorite algorithms,</p>
-<p>some Python patterns,</p>
-<p>and code wars solutions.</p>
+<h1>Python exercises</h1>
+
+<p>My solutions for CodeWars;</p>
+<p>Interesting algorithms;</p>
